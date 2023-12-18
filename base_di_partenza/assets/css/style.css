@@ -292,6 +292,26 @@ aside div{
     width: 30%;
 }
 }
+@media print {
+    body{
+        background-image: url();
+    }
+    header{
+        display: none;
+    }
+    iframe{
+        display: none;
+    }
+    aside{
+        display: none;
+    }
+    footer{
+        display: none;
+    }
+    section{
+        display: none;
+    }
+}
 
 
 
