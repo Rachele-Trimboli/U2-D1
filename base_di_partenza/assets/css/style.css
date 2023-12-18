@@ -252,7 +252,7 @@ header nav{
     bottom: 40px;
 }
 
-}
+
 header div{
     display: inline-block;
 
@@ -290,6 +290,7 @@ aside{
 aside div{
     display: inline-block;
     width: 30%;
+}
 }
 
 
