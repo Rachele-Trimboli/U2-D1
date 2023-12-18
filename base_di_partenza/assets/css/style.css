@@ -220,7 +220,7 @@ footer a {
 
 /* css per schermi grandi */
 
-@media screen and (min-width:991px) {
+@media screen and (min-width: 991px) {
     body{
         margin: 0 80px;
     }
